@@ -1,3 +1,6 @@
 
 jupyterよりも便利
 nteract
+
+でかいcsvを使うときはdask
+https://makoto-shimizu.com/news/data-prep-with-python-dask/
